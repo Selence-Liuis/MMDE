@@ -1,1 +1,1 @@
-Multiply Media Display Engine
+Multiple Media Display Engine
